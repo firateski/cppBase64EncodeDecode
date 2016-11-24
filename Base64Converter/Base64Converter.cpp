@@ -45,7 +45,7 @@ int main()
 
 
 	//Kullanıcıya metin girmesini söylüyoruz.
-	cout << "Base64 turundeki metni giriniz:" << endl;
+	cout << "Base64 turundeki metni giriniz:" << endl << endl;
 
 	//Kullanıcının girdiği metni 'girilenMetin' ismindeki değişkene aktarıyoruz.
 	getline(cin, girilenMetin);
